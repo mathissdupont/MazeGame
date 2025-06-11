@@ -1,0 +1,317 @@
+
+=== TURN 1 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+E T E P P W E W E T T T W G W E 
+T E W W E W P T P P W W E T W E 
+A P E W T E E P E E P P T W E P 
+E P W P W W T E P P P T P E W T 
+W E P E W T T W W E E E P E P W 
+Agent 0: (0,5) | Moves: 0 | Backtracks: 0 | PowerUp: NO
+Last moves: 0,5 
+
+=== TURN 2 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+T E P P W E W E T T T W G W E E 
+T E W W E W P T P P W W E T W E 
+E P E W T E E P E E P P T W E P 
+A P W P W W T E P P P T P E W T 
+W E P E W T T W W E E E P E P W 
+Agent 0: (0,6) | Moves: 1 | Backtracks: 0 | PowerUp: NO
+Last moves: 0,6 0,5 
+
+=== TURN 3 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+T E P P W E W E T T T W G W E E 
+T E W W E W P T P P W W E T W E 
+A P E W T E E P E E P P T W E P 
+P W P W W T E P P P T P E W T E 
+W E P E W T T W W E E E P E P W 
+Agent 0: (0,5) | Moves: 2 | Backtracks: 0 | PowerUp: NO
+Last moves: 0,5 0,6 0,5 
+
+=== TURN 4 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+E P P W E W E T T T W G W E E T 
+T E W W E W P T P P W W E T W E 
+E P E W T E E P E E P P T W E P 
+A W P W W T E P P P T P E W T E 
+W E P E W T T W W E E E P E P W 
+Agent 0: (0,6) | Moves: 3 | Backtracks: 1 | PowerUp: YES
+Last moves: 0,6 0,5 
+
+=== TURN 5 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+E P P W E W E T T T W G W E E T 
+T E W W E W P T P P W W E T W E 
+A P E W T E E P E E P P T W E P 
+W P W W T E P P P T P E W T E P 
+W E P E W T T W W E E E P E P W 
+Agent 0: (0,5) | Moves: 4 | Backtracks: 1 | PowerUp: YES
+Last moves: 0,5 0,6 0,5 
+
+=== TURN 6 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+P P W E W E T T T W G W E E T E 
+T E W W E W P T P P W W E T W E 
+E A E W T E E P E E P P T W E P 
+W P W W T E P P P T P E W T E P 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,5) | Moves: 5 | Backtracks: 2 | PowerUp: YES
+Last moves: 1,5 0,5 
+
+=== TURN 7 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+P W E W E T T T W G W E E T E P 
+T A W W E W P T P P W W E T W E 
+E P E W T E E P E E P P T W E P 
+W P W W T E P P P T P E W T E P 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,4) | Moves: 6 | Backtracks: 2 | PowerUp: YES
+Last moves: 1,4 1,5 0,5 
+
+=== TURN 8 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+P W E W E T T T W G W E E T E P 
+T E W W E W P T P P W W E T W E 
+E A E W T E E P E E P P T W E P 
+P W W T E P P P T P E W T E P W 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,5) | Moves: 7 | Backtracks: 2 | PowerUp: YES
+Last moves: 1,5 1,4 1,5 0,5 
+
+=== TURN 9 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+W E W E T T T W G W E E T E P P 
+T A W W E W P T P P W W E T W E 
+E P E W T E E P E E P P T W E P 
+P W W T E P P P T P E W T E P W 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,4) | Moves: 8 | Backtracks: 2 | PowerUp: YES
+Last moves: 1,4 1,5 1,4 1,5 0,5 
+
+=== TURN 10 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+W A W E T T T W G W E E T E P P 
+T E W W E W P T P P W W E T W E 
+E P E W T E E P E E P P T W E P 
+W W T E P P P T P E W T E P W P 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,3) | Moves: 9 | Backtracks: 2 | PowerUp: YES
+Last moves: 1,3 1,4 1,5 1,4 1,5 
+
+=== TURN 11 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+W E W E T T T W G W E E T E P P 
+T A W W E W P T P P W W E T W E 
+E P E W T E E P E E P P T W E P 
+W T E P P P T P E W T E P W P W 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,4) | Moves: 10 | Backtracks: 2 | PowerUp: YES
+Last moves: 1,4 1,3 1,4 1,5 1,4 
+
+=== TURN 12 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+W A W E T T T W G W E E T E P P 
+T E W W E W P T P P W W E T W E 
+E P E W T E E P E E P P T W E P 
+T E P P P T P E W T E P W P W W 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,3) | Moves: 11 | Backtracks: 2 | PowerUp: YES
+Last moves: 1,3 1,4 1,3 1,4 1,5 
+
+=== TURN 13 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+E W E T T T W G W E E T E P P W 
+T A W W E W P T P P W W E T W E 
+E P E W T E E P E E P P T W E P 
+T E P P P T P E W T E P W P W W 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,4) | Moves: 12 | Backtracks: 2 | PowerUp: YES
+Last moves: 1,4 1,3 1,4 1,3 1,4 
+
+=== TURN 14 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+W E T T T W G W E E T E P P W E 
+T E W W E W P T P P W W E T W E 
+E A E W T E E P E E P P T W E P 
+T E P P P T P E W T E P W P W W 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,5) | Moves: 13 | Backtracks: 2 | PowerUp: YES
+Last moves: 1,5 1,4 1,3 1,4 1,3 
+
+=== TURN 15 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+E T T T W G W E E T E P P W E W 
+T A W W E W P T P P W W E T W E 
+E P E W T E E P E E P P T W E P 
+T E P P P T P E W T E P W P W W 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,4) | Moves: 14 | Backtracks: 2 | PowerUp: YES
+Last moves: 1,4 1,5 1,4 1,3 1,4 
+
+=== TURN 16 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+T T T W G W E E T E P P W E W E 
+T E W W E W P T P P W W E T W E 
+E A E W T E E P E E P P T W E P 
+T E P P P T P E W T E P W P W W 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,5) | Moves: 15 | Backtracks: 3 | PowerUp: YES
+Last moves: 1,5 1,4 1,3 1,4 1,3 
+
+=== TURN 17 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+T T T W G W E E T E P P W E W E 
+T A W W E W P T P P W W E T W E 
+E P E W T E E P E E P P T W E P 
+E P P P T P E W T E P W P W W T 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,4) | Moves: 16 | Backtracks: 3 | PowerUp: YES
+Last moves: 1,4 1,5 1,4 1,3 1,4 
+
+=== TURN 18 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+T T T W G W E E T E P P W E W E 
+T E W W E W P T P P W W E T W E 
+E A E W T E E P E E P P T W E P 
+P P P T P E W T E P W P W W T E 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,5) | Moves: 17 | Backtracks: 4 | PowerUp: YES
+Last moves: 1,5 1,4 1,3 1,4 1,3 
+
+=== TURN 19 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+T T W G W E E T E P P W E W E T 
+T A W W E W P T P P W W E T W E 
+E P E W T E E P E E P P T W E P 
+P P P T P E W T E P W P W W T E 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,4) | Moves: 18 | Backtracks: 4 | PowerUp: YES
+Last moves: 1,4 1,5 1,4 1,3 1,4 
+
+=== TURN 20 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+T T W G W E E T E P P W E W E T 
+T E W W E W P T P P W W E T W E 
+E A E W T E E P E E P P T W E P 
+P P T P E W T E P W P W W T E P 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,5) | Moves: 19 | Backtracks: 5 | PowerUp: YES
+Last moves: 1,5 1,4 1,3 1,4 1,3 
+
+=== TURN 21 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+T W G W E E T E P P W E W E T T 
+T A W W E W P T P P W W E T W E 
+E P E W T E E P E E P P T W E P 
+P P T P E W T E P W P W W T E P 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,4) | Moves: 20 | Backtracks: 5 | PowerUp: YES
+Last moves: 1,4 1,5 1,4 1,3 1,4 
+
+=== TURN 22 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+T W G W E E T E P P W E W E T T 
+T E W W E W P T P P W W E T W E 
+E A E W T E E P E E P P T W E P 
+P T P E W T E P W P W W T E P P 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,5) | Moves: 21 | Backtracks: 5 | PowerUp: YES
+Last moves: 1,5 1,4 1,5 1,4 1,3 
+
+=== TURN 23 ===
+MAZE STATE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+W G W E E T E P P W E W E T T T 
+T A W W E W P T P P W W E T W E 
+E P E W T E E P E E P P T W E P 
+P T P E W T E P W P W W T E P P 
+W E P E W T T W W E E E P E P W 
+Agent 0: (1,4) | Moves: 22 | Backtracks: 5 | PowerUp: YES
+Last moves: 1,4 1,5 1,4 1,5 1,4 
+
+=== FINAL STATISTICS ===
+FINAL MAZE:
+P P E T E P T W P T E T P P P E 
+T P E T T E E W E T W T E P E E 
+W W E T E E T P P P E W W W E E 
+A W E E T E P P W E W E T T T W 
+T E W W E W P T P P W W E T W E 
+E P E W T E E P E E P P T W E P 
+P T P E W T E P W P W W T E P P 
+W E P E W T T W W E E E P E P W 
+
+AGENT RESULTS:
+Agent 0: GOAL | Total Moves: 23 | Backtracks: 5 | Traps: 6
+
+GLOBAL STATS:
+Total Turns: 23
+First Winner: Agent 0
